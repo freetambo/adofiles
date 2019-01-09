@@ -10,9 +10,10 @@ Changelog:
 30/1/2018	v0.2	Koen	Added help
 							Added type option
 							fixed error when no files where no files were present
+09/01/2019	V0.2.1	Koen	Added version message
 
 */
-
+*! Filechange v0.2.1 9jan2019 k.leuveld@surveybe.com
 program filechange
 	syntax , in(string) out(string) type(string) [fulldetails]
 
